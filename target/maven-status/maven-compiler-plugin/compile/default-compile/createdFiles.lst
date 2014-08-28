@@ -1,0 +1,6 @@
+com\airwatch\database_classes\Trip.class
+com\airwatch\front_end\Writer.class
+com\airwatch\hibernate_layer\TripCRUDLogic.class
+com\airwatch\database_classes\City.class
+com\airwatch\hibernate_layer\CityCRUDLogic.class
+com\airwatch\front_end\BookTrip.class
